@@ -1,0 +1,64 @@
+Enter your first name: Oshan
+
+Enter your last name: Poudyal
+
+
+Enter your birth year (yyyy): 1999
+
+Enter your birth month (mm): 11
+
+Enter your birth day (dd): 28
+
+
+
+Name: Poudyal, Oshan
+
+The Date of Birth(mmddyyyy) is: 11 28 1999
+
+
+Enter this month (mm):
+03
+Enter today's date (dd):
+24
+Enter this year (yyyy):
+2021
+
+
+
+The age is: 21.3212
+Maximum Heart Rate is: 198.679
+Your target heartrate should be in the range of: 99.3394  to 168.877
+
+Enter your first name: Oshan
+
+Enter your last name: Millionaire
+
+
+Enter your birth year (yyyy): asd
+Invalid Input!
+
+Enter your birth year (yyyy): 456
+Invalid Input!
+
+Enter your birth year (yyyy): 546
+Invalid Input!
+
+Enter your birth year (yyyy): 1965
+
+Enter your birth month (mm): a
+Invalid Input!
+
+Enter your birth month (mm): 2
+
+Enter your birth day (dd): a
+Invalid Input!
+
+Enter your birth day (dd): 1
+
+
+
+Name: Millionaire, Oshan
+
+The Date of Birth(mmddyyyy) is: 2  1  1965
+
+
